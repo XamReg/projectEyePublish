@@ -4,15 +4,18 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
 import App from "./App";
 import { ContentColor } from "./components/ContentColor";
+import ErrorPage from "./error-page";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/projectEyePublish",
     element: <App />,
+    errorElement: <ErrorPage />,
   },
   {
-    path: "colorContent/:id",
+    path: "/projectEyePublish/colorContent/:id",
     element: <ContentColor />,
+    errorElement: <ErrorPage />,
   },
 ]);
 
