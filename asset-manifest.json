@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projectEyePublish/static/css/main.142e35e9.css",
-    "main.js": "/projectEyePublish/static/js/main.5b7e98f2.js",
+    "main.css": "/projectEyePublish/static/css/main.598f82a2.css",
+    "main.js": "/projectEyePublish/static/js/main.7f604285.js",
     "static/media/1.jpg": "/projectEyePublish/static/media/1.2d8cae19d59d1cf183f5.jpg",
     "static/media/6.jpg": "/projectEyePublish/static/media/6.d92a9f5a7c7b53ffa990.jpg",
     "static/media/3.jpg": "/projectEyePublish/static/media/3.794b1dd1a148549ccb10.jpg",
@@ -18,11 +18,11 @@
     "static/media/7.jpg": "/projectEyePublish/static/media/7.72f726aedb0f3e21cad2.jpg",
     "static/media/диаграмма 1.png": "/projectEyePublish/static/media/диаграмма 1.7ae30c6ec8e341fb7c96.png",
     "index.html": "/projectEyePublish/index.html",
-    "main.142e35e9.css.map": "/projectEyePublish/static/css/main.142e35e9.css.map",
-    "main.5b7e98f2.js.map": "/projectEyePublish/static/js/main.5b7e98f2.js.map"
+    "main.598f82a2.css.map": "/projectEyePublish/static/css/main.598f82a2.css.map",
+    "main.7f604285.js.map": "/projectEyePublish/static/js/main.7f604285.js.map"
   },
   "entrypoints": [
-    "static/css/main.142e35e9.css",
-    "static/js/main.5b7e98f2.js"
+    "static/css/main.598f82a2.css",
+    "static/js/main.7f604285.js"
   ]
 }
