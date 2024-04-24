@@ -1,0 +1,75 @@
+@import "../variables";
+
+.container {
+  //   background-color: blanchedalmond; // Del
+  padding-top: 42px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  padding-bottom: 120px;
+}
+
+.blockTitle {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 12px;
+  //   background-color: brown; // Del
+}
+
+.blockDiscription {
+  //   padding: 12px;
+  padding-left: 32px;
+  padding-right: 32px;
+  display: flex;
+  align-items: center;
+  //   background-color: rgb(195, 245, 179); // Del
+}
+
+.blockImg {
+  //   background-color: salmon; // Del
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.imgBlock {
+  width: 223px;
+  height: 218px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.5s ease;
+}
+
+.imgBlock:hover {
+  scale: 1.05;
+}
+
+.imgColor {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+// TEXT
+
+.title {
+  font-size: 40px;
+  color: #1f1f1f;
+  font-family: $font-Montserrat;
+  font-weight: 700;
+  line-height: 28px;
+  word-wrap: break-word;
+}
+
+.textDiscription {
+  font-size: 21px;
+  color: #1f1f1f;
+  font-family: $font-Montserrat;
+  font-weight: 700;
+  line-height: 28px;
+  word-wrap: break-word;
+}

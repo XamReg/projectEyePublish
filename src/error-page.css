@@ -1,0 +1,19 @@
+.container {
+  /* background-color: #282c34; */
+  /* position: absolute; */
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  /* flex-grow: 1; */
+  /* flex: 1; */
+}
+.content {
+  /* position: relative; */
+  background-color: antiquewhite;
+  border-radius: 12px;
+  align-items: center;
+  /* justify-content: center; */
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
