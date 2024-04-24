@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/projectEyeNew/static/css/main.9cdc8c71.css",
+    "main.js": "/projectEyeNew/static/js/main.1ac7bf6a.js",
+    "static/media/1.jpg": "/projectEyeNew/static/media/1.2d8cae19d59d1cf183f5.jpg",
+    "static/media/6.jpg": "/projectEyeNew/static/media/6.d92a9f5a7c7b53ffa990.jpg",
+    "static/media/3.jpg": "/projectEyeNew/static/media/3.794b1dd1a148549ccb10.jpg",
+    "static/media/2.jpg": "/projectEyeNew/static/media/2.6565ddd3d38619e890ed.jpg",
+    "static/media/9.jpg": "/projectEyeNew/static/media/9.703d9a5e73075f296b81.jpg",
+    "static/media/10.jpg": "/projectEyeNew/static/media/10.c145c22e6a015d7a8ee8.jpg",
+    "static/media/8.jpg": "/projectEyeNew/static/media/8.fe2bec0e36dcb99601d8.jpg",
+    "static/media/4.jpg": "/projectEyeNew/static/media/4.114faaf70c908d639808.jpg",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/projectEyeNew/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "static/media/радуга.jpg": "/projectEyeNew/static/media/радуга.d949d99ec5cc1402b064.jpg",
+    "static/media/глаз1.webp": "/projectEyeNew/static/media/глаз1.9f6bfbb4e870882ef611.webp",
+    "static/media/5.jpg": "/projectEyeNew/static/media/5.e7a181a3ad8731b4b4f5.jpg",
+    "static/media/глаз.webp": "/projectEyeNew/static/media/глаз.8040e6c3f72422330584.webp",
+    "static/media/7.jpg": "/projectEyeNew/static/media/7.72f726aedb0f3e21cad2.jpg",
+    "static/media/диаграмма 1.png": "/projectEyeNew/static/media/диаграмма 1.7ae30c6ec8e341fb7c96.png",
+    "index.html": "/projectEyeNew/index.html",
+    "main.9cdc8c71.css.map": "/projectEyeNew/static/css/main.9cdc8c71.css.map",
+    "main.1ac7bf6a.js.map": "/projectEyeNew/static/js/main.1ac7bf6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cdc8c71.css",
+    "static/js/main.1ac7bf6a.js"
+  ]
+}
